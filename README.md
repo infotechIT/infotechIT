@@ -4,7 +4,7 @@
 - **📚 CA Student**
 # My Social Profiles
 <p align="center">
-<a href="https://instagram.com/idc4boi?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Ꭰҽąժ βօì-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/astrexlly?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Asta-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p<
 <a href="https://t.me/itzmerixo"><img alt="Telegram" src="https://img.shields.io/badge/Rixo ff-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
