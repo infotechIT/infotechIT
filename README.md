@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m InfoTech, Welcome to my GitHub Profile
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infotechIT&label=Profile%20views&color=0e76b6&style=flat" alt="infotechIT" /> </p>
 
-- **📚 CA Student**
+- **📚 CS Student**
 # My Social Profiles
 <p align="center">
 <a href="https://instagram.com/astrexlly?utm_medium=copy_link"><img alt="Instagram" src="https://img.shields.io/badge/Asta-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
