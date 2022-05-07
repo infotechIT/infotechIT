@@ -8,6 +8,8 @@
 </p<
 <a href="https://t.me/alxneboy"><img alt="Telegram" src="https://img.shields.io/badge/AloneBoy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=infotechIT&theme=highcontrast" align="center">
-</p>
+<div align="center">
+
+![🔥](https://github-readme-stats.vercel.app/api?username=infotechIT&show=prs&count_private=true&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true)
+
+</div>
